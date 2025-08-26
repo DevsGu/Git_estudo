@@ -11,30 +11,16 @@ Repositório para Armazenar resumos sobre Git&GitHub do curso versionamento de c
 
 | Aulas | Resumos |
 |-------|---------|
-|Primeiros Passos Com Git & GitHub|[Resumos]()
-|Salvando alterações no Repositório Local|[]()
+|Versionamento De código & Git e GitHub|[A1]()
+|Configurando Git|[A2]()
+|Primeiros passos com Git & GitHub|[A3]()
+|Salvando alterações no Repositório local|[A4]()
+|Enviando e Baixando alterações no Repositório Remoto|[A5]()
+|Trabalhando com Branchs|[A6]()
 
 ```
-🐱‍Primeiros Passos Com Git & GitHub
-Para transformar um diretorio local em um diretorio remoto use o comando
-- Git Init
-
-Para Clonar um Repositório remoto 
-- Git clone + http:// ... (nome da pasta caso queira uma diferente)
-
-Podemos Clonar Branchs Especificas usando
--Git Clone + URL --Branchs
--Git Clone + nome da Branch --single -branch (se não colocar nome da branch ela clona a branch principal)
-
-Conectando Repositório Local ao Repositório Remoto use
--Git remove add origin + URL
--Git push -u origin main
-
+🐱Esse aqui é o meu começo , vou dar o melhor todos os dias buscando melhorias em cada trabalho.
 ```
-```
-🐱Salvando alterações no Repositório local
-```
-
 
 ## 🔍 Referências 
 [Digital innovetion One]()  
