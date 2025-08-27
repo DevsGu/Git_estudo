@@ -12,7 +12,7 @@ Repositório para Armazenar resumos sobre Git&GitHub do curso versionamento de c
 | Aulas | Resumos |
 |-------|---------|
 |Versionamento De código & Git e GitHub|[A1](https://github.com/DevsGu/Git_estudo/blob/main/resumo1.md)
-|Configurando Git|[A2]()
+|Configurando Git|[A2](https://github.com/DevsGu/Git_estudo/blob/main/Resumo2.md)
 |Primeiros passos com Git & GitHub|[A3]()
 |Salvando alterações no Repositório local|[A4]()
 |Enviando e Baixando alterações no Repositório Remoto|[A5]()
